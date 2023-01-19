@@ -8,7 +8,12 @@ This React application displays a game called Lights Out. In this game, the goal
 
 ## How to run it:
 
-After downloading this repository files, execute 'npm install' in a command window of your choice, then type:
+After downloading this repository files, open a command window of your choice and execute the following command inside Lights-Out-Game folder:
+
+### `npm install` 
+
+Then execute:
+
 ### `npm start`
 
 After some moments, your browser window should open with the app running. If this does not occur, try accessing it manually by typing http://localhost:3000/ at the top of your browser.
